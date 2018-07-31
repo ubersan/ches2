@@ -5,5 +5,5 @@ UCI compatible chess engine written in Pony.
 # Compilation
 
 ```
-ponyc -o build
+ponyc -o build (put into makefile?)
 ```
