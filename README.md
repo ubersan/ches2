@@ -2,8 +2,14 @@
 
 UCI compatible chess engine written in Pony.
 
-# Compilation
+# Compile
 
 ```
-ponyc -o build (put into makefile?)
+make
+```
+
+# Run
+
+```
+./build/ches2
 ```
