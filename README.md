@@ -11,5 +11,5 @@ make
 # Run
 
 ```
-./build/ches2
+make run
 ```
